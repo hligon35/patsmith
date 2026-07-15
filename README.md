@@ -10,6 +10,11 @@ This is a lightweight static site. Open `index.html` directly or run:
 npx serve .
 ```
 
+Two design concepts are included:
+
+- `index.html` — refined editorial/personal-brand direction
+- `index-2.html` — bold magazine-cover/fan-community direction
+
 ## Content notes
 
 - The email form opens the visitor's email application and sends to `cohost@b3unstoppable.net`.
